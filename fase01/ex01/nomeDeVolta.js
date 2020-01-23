@@ -1,5 +1,3 @@
-function mostrarNome() {
-  console.log("marvin")
+function nomeDeVolta() {
+    console.log("Marvin");
 }
-
-mostrarNome()
