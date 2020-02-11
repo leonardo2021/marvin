@@ -1,4 +1,4 @@
-function finais(palavra) {
- console.log(finais("Ford Prefect"))
+function finais (palavra) {
+const palavras = palavra;
+return palavra.substring(palavra.length -3)
 }
-
