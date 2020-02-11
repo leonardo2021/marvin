@@ -1,3 +1,4 @@
-function iniciais(palavra) {
-console.log(iniciais("mochileiro"))
+function iniciais (palavra) {
+const palavras = palavra;
+return palavra.substring(3,0)
 }
